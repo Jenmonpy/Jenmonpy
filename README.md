@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, ich bin Simon 👋
 
-<!--
-**Jenmonpy/Jenmonpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Inhaber von **[Duschl Media](https://duschlmedia.de)** – einer Marketingagentur aus Deutschland,  
+spezialisiert auf Handwerk & Baubranche.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Was ich mache
+
+→ Ich helfe Handwerksbetrieben und Bauunternehmen dabei, qualifizierte Kunden  
+  und Mitarbeiter zu gewinnen – mit einem vollintegrierten System aus:
+
+- 🎬 **Videoproduktion** – Werbevideos & Testimonials
+- 🌐 **Landingpages** – konversionsstark & verkaufspsychologisch aufgebaut
+- 📣 **Performance Marketing** – Meta- & Google-Kampagnen
+- ⚙️ **Automatisierung** – eigenes CRM, Make, n8n, KI-gestützte Prozesse
+
+--
+
