@@ -1,19 +1,16 @@
-# Hey, ich bin Simon 👋
+# Hey, I'm Simon 👋
 
-Inhaber von **[Duschl Media](https://duschlmedia.de)** – einer Marketingagentur aus Deutschland,  
-spezialisiert auf Handwerk & Baubranche.
+Owner of **[Duschl Media](https://duschlmedia.de)** – a marketing agency from Germany,  
+specialized in the trades & construction industry.
 
 ---
 
-## Was ich mache
+## What I do
 
-→ Ich helfe Handwerksbetrieben und Bauunternehmen dabei, qualifizierte Kunden  
-  und Mitarbeiter zu gewinnen – mit einem vollintegrierten System aus:
+→ I help craftsmen and construction companies attract qualified clients  
+  and employees – with a fully integrated system built from:
 
-- 🎬 **Videoproduktion** – Werbevideos & Testimonials
-- 🌐 **Landingpages** – konversionsstark & verkaufspsychologisch aufgebaut
-- 📣 **Performance Marketing** – Meta- & Google-Kampagnen
-- ⚙️ **Automatisierung** – eigenes CRM, Make, n8n, KI-gestützte Prozesse
-
-
-
+- 🎬 **Video Production** – promotional videos & testimonials
+- 🌐 **Landing Pages** – conversion-focused & built on sales psychology
+- 📣 **Performance Marketing** – Meta & Google ad campaigns
+- ⚙️ **Automation** – custom CRM, Make, n8n, AI-powered processes
